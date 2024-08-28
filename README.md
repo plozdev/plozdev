@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anh Hoang</h1>
-<h3 align="center">A freshman in software engineering from Vietnam</h3>
+<h3 align="center">A freshman in software engineering from Vietnam.</h3>
+<h4 align="center">I am a first-year Software Engineering student at the FPT University, Ho Chi Minh City. My current skill set includes fundamental programming in C++ and Java, along with a grasp of data structures, algorithms, and object-oriented programming principles. I aim to become a skilled software engineer and eventually pursue international opportunities in Asia or Europe. </h4>
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
