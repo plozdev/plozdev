@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
+- 🎯 My goal is to become **Back-end Developer, Game Developer** 
+
 - 📫 How to reach me **azure17171@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
