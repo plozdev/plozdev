@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anh Hoang</h1>
 <h3 align="center">A freshman in software engineering from Vietnam.</h3>
-<h4 align="center">I am a first-year Software Engineering student at FPT University and a recipient of a Talent Scholarship. Passionate about technology, I have foundational knowledge in competitive programming with C++ and Android app development with Java. I am actively developing advanced skills to pursue a career as a Back-end Developer. Additionally, I possess strong research and self-learning abilities, as well as effective teamwork and organizational skills, honed through personal academic projects.</h4>
+<h4 align="center">I am a first-year Software Engineering college student. Passionate about technology, I have foundational knowledge in competitive programming with C++ and Android app development with Java. I am actively developing advanced skills to pursue a career as a Back-end Developer (.NET) and Game Developer.</h4>
 
-- 🌱 I’m currently learning **Java, C++**
+- 🌱 I’m currently learning **Java, C++, C#**
 
 - 🎯 My goal is to become **Software Developer, Game Developer** 
 
